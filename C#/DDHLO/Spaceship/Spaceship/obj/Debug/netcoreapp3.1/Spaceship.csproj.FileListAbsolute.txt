@@ -1,0 +1,14 @@
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.exe
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.deps.json
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.json
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.dev.json
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.dll
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.pdb
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csproj.AssemblyReference.cache
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfoInputs.cache
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfo.cs
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.dll
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.pdb
+D:\Studia\Semestr6\DDHLO\Spaceship\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.genruntimeconfig.cache

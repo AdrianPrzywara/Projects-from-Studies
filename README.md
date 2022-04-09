@@ -1,2 +1,2 @@
 # Projects-from-Studies
-Projekty i zadania wykonane w czasie studiów
+Tasks and projects completed during the studies grouped by programming language

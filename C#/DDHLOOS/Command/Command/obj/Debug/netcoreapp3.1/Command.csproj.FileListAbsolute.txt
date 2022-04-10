@@ -1,0 +1,14 @@
+D:\Studia\Semestr6\DDHLO\Command\Command\bin\Debug\netcoreapp3.1\Command.exe
+D:\Studia\Semestr6\DDHLO\Command\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+D:\Studia\Semestr6\DDHLO\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+D:\Studia\Semestr6\DDHLO\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+D:\Studia\Semestr6\DDHLO\Command\Command\bin\Debug\netcoreapp3.1\Command.dll
+D:\Studia\Semestr6\DDHLO\Command\Command\bin\Debug\netcoreapp3.1\Command.pdb
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.csproj.AssemblyReference.cache
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.dll
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.pdb
+D:\Studia\Semestr6\DDHLO\Command\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
